@@ -1,0 +1,23 @@
+.Contenedor_carrusel{
+    width: 100%;
+    height: 20%;
+}
+.card {
+    width: 250px;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.card-header-title {
+    text-align: center;
+}
+
+.card-content {
+    text-align: center;
+}
